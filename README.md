@@ -60,7 +60,7 @@ Optional: 3D-printed enclosure / case.
 
 ---
 
-## 🎯 Possible Extensions & Ideas
+## 🧩 Possible Extensions & Ideas
 
 - Design a proper PCB + revised 3D-printed enclosure  
 - Add BLE / WiFi for smart-home integration or remote control  
@@ -73,4 +73,9 @@ Optional: 3D-printed enclosure / case.
 ---
 
 ## 📁 Repository Structure
+/ ← root
+├── firmware/ ← ELLA-Box OS code (Arduino C++ + U8g2/UI + menu system)
+├── 3d_case/ ← 3D-printable enclosure files (if available)
+├── docs/ ← Documentation, wiring diagrams, screenshots
+└── README.md ← This file
 
